@@ -5,7 +5,7 @@ For each type of metal ions, the training dataset and independent validation dat
 	
 Taking Zn2+ as an example, its training dataset consists of two files:
 
-        Training\ZN_seq.fasta 
+	Training\ZN_seq.fasta 
 	Training\ZN_label.fasta
 and its corresponding independent validation dataset also consists of two files:
 
