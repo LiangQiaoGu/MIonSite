@@ -1,0 +1,9 @@
+
+========================[ May 30, 2015  5:47 AM ]========================
+ERROR: [000.000] No database name was specified
+
+========================[ May 30, 2015  5:51 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "../psipred321/uniprot/uniprot_sprot.fasta"
+Formatted 548586 sequences in volume 0
+SUCCESS: formatted database ../psipred321/uniprot/uniprot_sprot.fasta
