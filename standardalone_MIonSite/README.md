@@ -10,9 +10,11 @@ Installation:
 			
 	   Let $HOME_FOLDER to the absolute path of the MIonSite folder 
 	
-	2. Install the SANN software, which is available on $HOME_FOLDER or http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann
-			
-	3. Configure the $HOME_FOLDER/java/Config.properties file, as follows:
+	2. Download and Install the SANN software, which is available on http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann
+	
+	3. Download the nr database from xxxxxx
+	
+	4. Configure the $HOME_FOLDER/java/Config.properties file, as follows:
 	
 				BLAST_BIN_DIR=$HOME_FOLDER/blast-2.2.26
 				BLASTPGP_EXE_PATH=$HOME_FOLDER/blast-2.2.26/blastpgp
