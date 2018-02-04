@@ -1,7 +1,8 @@
 MIonSite: Identifying Metal Ion-Binding Sites via Enhanced AdaBoost Algorithm with Protein Sequence Information
 
-Note: The MIonSite can be only used to predict the Zn, Ca, Mg, Mn, and Fe binding sites from protein sequence.
-
+Note: 	The MIonSite can be only used to predict the Zn, Ca, Mg, Mn, and Fe binding sites from protein sequence.
+	Please run this program on CentOS or RedHat Linux system.
+	
 Installation:
 	
 	1. Download the MIonSite package. Let $HOME_FOLDER be the absolute path of the "standardalone_MIonSite" folder. 
