@@ -8,17 +8,17 @@ Installation:
 
 				$ tar xvzf MIonSite.tar.gz
 			
-	   Let $HOME_FOLDER to the absolute path of the MIonSite folder 
+	   Let $HOME_FOLDER to the absolute path of the MIonSite folder.
 	
-	2. Download and Install the SANN software, which is available on http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann
+	2. Download and Install the SANN software, which is available on http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann.
 	
-	3. Download all formated nr databases (i.e., nr.*.tar.gz) from ftp://ftp.ncbi.nlm.nih.gov/blast/db/. Uncompress these ".tar.gz" files
+	3. Download all formated nr databases (i.e., nr.*.tar.gz) from ftp://ftp.ncbi.nlm.nih.gov/blast/db/ and save them on the $HOME_FOLDER/NCBI_nr folder. Uncompress these ".tar.gz" files.
 	
 	4. Configure the $HOME_FOLDER/java/Config.properties file, as follows:
 	
 				BLAST_BIN_DIR=$HOME_FOLDER/blast-2.2.26
 				BLASTPGP_EXE_PATH=$HOME_FOLDER/blast-2.2.26/blastpgp
-				BLASTPGP_DB_PATH=$HOME_FOLDER/nr/nr
+				BLASTPGP_DB_PATH=$HOME_FOLDER/NCBI_nr/nr
 				PSIPRED321_FOLDER_DIR=$HOME_FOLDER/psipred321
 				BLASTPGP_OUTPUT_PARSER_DIR=$HOME_FOLDER/blastpgpOutputPARSER
 				SANN_RUNNER_PATH=$HOME_FOLDER/SANN/sann/bin/sann.sh
