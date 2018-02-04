@@ -4,11 +4,13 @@ Note: The MIonSite can be only used to predict the Zn, Ca, Mg, Mn, and Fe bindin
 
 Installation:
 	
-	1. Download the MIonSite package and decompression 
-
-				$ tar xvzf MIonSite.tar.gz
-			
-	   Let $HOME_FOLDER to the absolute path of the MIonSite folder.
+	1. Download the MIonSite package. Let $HOME_FOLDER to the absolute path of the "standardalone_MIonSite" folder. 
+	   Run the "setup.sh" shell file
+	   
+	   	$cd $HOME_FOLDER
+		$chmod 777 setup.sh
+		$./setup.sh
+	
 	
 	2. Download and Install the SANN software, which is available on http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann.
 	
