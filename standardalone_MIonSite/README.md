@@ -8,7 +8,7 @@ Installation:
 	   Run the "setup.sh" shell file
 	   
 	   	$cd $HOME_FOLDER
-		$chmod 777 setup.sh
+		$chmod -R 777 ./*
 		$./setup.sh
 	
 	
