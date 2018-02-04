@@ -12,7 +12,7 @@ Installation:
 	
 	2. Download and Install the SANN software, which is available on http://lee.kias.re.kr/~protein/wiki/doku.php?id=sann:download:sann
 	
-	3. Download the nr database from xxxxxx
+	3. Download all formated nr databases (i.e., nr.*.tar.gz) from ftp://ftp.ncbi.nlm.nih.gov/blast/db/. Uncompress these ".tar.gz" files
 	
 	4. Configure the $HOME_FOLDER/java/Config.properties file, as follows:
 	
