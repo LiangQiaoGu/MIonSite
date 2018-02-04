@@ -1,6 +1,7 @@
 #!/bin/tcsh
 
 tar zxvf ./java.tar.gz
+tar zxvf ./psipred321.tar.gz
 
 echo "Decompress the model files\n"
 
