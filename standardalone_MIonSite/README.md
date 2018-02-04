@@ -4,7 +4,7 @@ Note: The MIonSite can be only used to predict the Zn, Ca, Mg, Mn, and Fe bindin
 
 Installation:
 	
-	1. Download the MIonSite package. Let $HOME_FOLDER to the absolute path of the "standardalone_MIonSite" folder. 
+	1. Download the MIonSite package. Let $HOME_FOLDER be the absolute path of the "standardalone_MIonSite" folder. 
 	   Run the "setup.sh" shell file
 	   
 	   	$cd $HOME_FOLDER
