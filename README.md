@@ -1,6 +1,11 @@
 # MIonSite
 MIonSite: an accurate metal ion binding site predictor
 
+There are three folders, i.e., "xxx", "xxx", and "xxx", which is the standardalone program of MIonSite, the training protein dataset, and the independent testing protein dataset, respectively.
+
+The steps of installing the MIonSite program are clearly described in the README.md file of the "standardalone_MIonSite" folder.
+
+
 For each type of metal ions, the training dataset and independent validation dataset are organized as follows:
 	
 Taking Zn2+ as an example, its training dataset consists of two files:
