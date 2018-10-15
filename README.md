@@ -1,7 +1,7 @@
 # MIonSite
-MIonSite: an accurate metal ion binding site predictor
+MIonSite: an accurate predictor for targeting the binding sites of Zn2+, Ca2+, Mg2+, Mn2+, Fe3+, Cu2+, Fe2+, Co2+, Na+, K+, Cd2+, and Ni2+ from protein sequence.
 
-There are three folders, i.e., "standardalone_MIonSite", "Training_dataset", and "Independent_validation_dataset", which is the standardalone program of MIonSite, the training protein dataset, and the independent testing protein dataset, respectively.
+There are four folders, i.e., "standardalone_MIonSite", "Training_dataset", "Independent_validation_dataset", and "BTD", which are the standardalone program of MIonSite, the training protein dataset, the independent testing protein dataset, and the blind test dataset, respectively.
 
 The steps of installing the MIonSite program are clearly described in the README.md file of the "standardalone_MIonSite" folder.
 
@@ -18,3 +18,7 @@ and its corresponding independent validation dataset also consists of two files:
 	Indepedent_validation_dataset\ZN_label.fasta	
 
 In all the label files, '0' represents a non-binding site, while '1' represents a metal ion binding site.
+
+
+
+For each protein in BTD, we only know its metal ion-binding site, but we do not know the type of metal ion.
